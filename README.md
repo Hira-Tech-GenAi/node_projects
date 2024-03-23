@@ -8,7 +8,7 @@ TypeScript implementation of a Command Line Interface (CLI) number guessing game
 
 
 
-## Feature
+
 
 Game Flow:
 The game loop keeps running until the user guesses correctly or exhausts all attempts.
