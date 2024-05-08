@@ -43,7 +43,7 @@ npx mine_cli_atm_machine
 
 _Use the app as an npx package_:
 
-npx i mine_cli_todo_list
+npx mine_cli_todo_list
 
 ## (5) Command Line Currency Converter (TS):
 
